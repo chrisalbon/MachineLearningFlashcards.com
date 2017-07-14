@@ -4503,7 +4503,8 @@ a.badge:focus, a.badge:hover {
 }
 
 .jumbotron .h1, .jumbotron h1 {
-    color: inherit
+    color: inherit;
+    text-align:center;
 }
 
 .jumbotron p {
@@ -4540,6 +4541,7 @@ a.badge:focus, a.badge:hover {
     .jumbotron .h2, .jumbotron h2 {
         font-size: 40px;
         text-align: center;
+        color: #afafaf;
     }
 }
 
@@ -6235,7 +6237,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media only screen and (max-width:991px) {
     h1 {
-        font-size: 35.38px
+        font-size: 50px
     }
 }
 
