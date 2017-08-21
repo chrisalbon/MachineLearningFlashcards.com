@@ -1215,7 +1215,8 @@ hr {
 }
 
 p {
-    margin: 0 0 12.5px
+    margin: 0 0 12.5px;
+    font-size: 1.2em;
 }
 
 .lead {
@@ -6459,6 +6460,10 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
   -moz-box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
   box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
+}
+
+.iphone {
+  width: 100%;
 }
 
 .flashcard-grid {
