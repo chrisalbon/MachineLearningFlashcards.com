@@ -6462,11 +6462,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
 }
 
-.iphone {
-  width: 100%;
-}
-
-.iphone-box img{
+.phone {
   width: 100%;
 }
 
