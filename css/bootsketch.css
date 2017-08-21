@@ -6464,6 +6464,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .phone {
   width: 100%;
+  -webkit-box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
+  -moz-box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
+  box-shadow: 8px 8px 5px -4px rgba(140,140,140,0.8);
 }
 
 .flashcard-grid {
