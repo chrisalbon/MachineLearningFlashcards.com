@@ -1068,7 +1068,7 @@ html {
 }
 
 body {
-    font-family: "Cabin Sketch", cursive;
+    font-family: helvetica;
     font-size: 22px;
     line-height: 1.22857;
     color: #555;
@@ -1216,7 +1216,6 @@ hr {
 
 p {
     margin: 0 0 12.5px;
-    font-size: 1.2em;
 }
 
 .lead {
@@ -4510,7 +4509,7 @@ a.badge:focus, a.badge:hover {
 
 .jumbotron p {
     margin-bottom: 15px;
-    font-size: 27px;
+    font-size: 24px;
     font-weight: 200
 }
 
@@ -4536,11 +4535,11 @@ a.badge:focus, a.badge:hover {
         padding-right: 40px
     }
     .jumbotron .h1, .jumbotron h1 {
-        font-size: 80px;
+        font-size: 60px;
         text-align: center;
     }
     .jumbotron .h2, .jumbotron h2 {
-        font-size: 40px;
+        font-size: 35px;
         text-align: center;
         color: #afafaf;
     }
