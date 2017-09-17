@@ -1171,11 +1171,11 @@ hr {
 }
 
 .h2, h2 {
-    font-size: 38px
+    font-size: 30px;
 }
 
 .h3, h3 {
-    font-size: 31px
+    font-size: 28px
 }
 
 .h4, h4 {
@@ -1192,7 +1192,7 @@ hr {
 
 p {
     margin: 0 0 12.5px;
-    font-size: 1.1em;
+    font-size: .9em;
 }
 
 .lead {
@@ -4512,11 +4512,11 @@ a.badge:focus, a.badge:hover {
         padding-right: 40px
     }
     .jumbotron .h1, .jumbotron h1 {
-        font-size: 60px;
+        font-size: 50px;
         text-align: center;
     }
     .jumbotron .h2, .jumbotron h2 {
-        font-size: 35px;
+        font-size: 30px;
         text-align: center;
         color: #afafaf;
     }
