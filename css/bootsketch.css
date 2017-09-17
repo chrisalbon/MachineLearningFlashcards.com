@@ -1195,10 +1195,6 @@ p {
     font-size: .9em;
 }
 
-li {
-    font-size: .9em;
-}
-
 .lead {
     margin-bottom: 25px;
     font-size: 20px;
@@ -1334,7 +1330,8 @@ a.bg-danger:hover {
 
 ol, ul {
     margin-top: 0;
-    margin-bottom: 12.5px
+    margin-bottom: 12.5px;
+    font-size: .9em;
 }
 
 ol ol, ol ul, ul ol, ul ul {
