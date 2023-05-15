@@ -7679,4 +7679,5 @@ h6 {
 
 .flashcard-grid {
   width: 100%;
+  border: 1px solid #ccc;
 }
